@@ -1,0 +1,41 @@
+body {
+  background-color: #FFF3C8;
+
+}
+h1 {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 65px;
+}
+.head {
+  background-color: #FFF2F8;
+  padding: .5em;
+}
+.text-color {
+  color: #DAAD6A;
+}
+.end {
+  background-color: #CBCBCB;
+  border-top: 3px solid grey;
+}
+.start {
+  border-bottom: 3px solid grey;
+}
+.font {
+  font-family: 'Reenie Beanie', cursive;
+}
+.card {
+  background-color: #FFF2F8;
+}
+.card-body img {
+  height: 20vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+h2 {
+  font-size: 45px;
+}
+/* .items {
+  display: flex;
+  justify-content: space-between;
+} */
